@@ -7,7 +7,7 @@ public class AT02_login {
     public void CreateAccount()
     {
         System.out.println("User will navigate to login account screen");
-        TEST
+        //TEST
     }
 
 }
