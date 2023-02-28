@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="VijayaGitProject_SCM" />
+        <module name="GitProject_SCM" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="VijayaGitProject_SCM" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

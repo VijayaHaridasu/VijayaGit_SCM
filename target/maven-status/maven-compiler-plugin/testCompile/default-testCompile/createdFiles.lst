@@ -1,2 +1,2 @@
-Login\AT01_Navigatetohomepage.class
-Login\AT02_login.class
+Runner\TestRunner.class
+StepDefinitions\AT01_Navigatetohomepage.class

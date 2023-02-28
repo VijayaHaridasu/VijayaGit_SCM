@@ -1,0 +1,5 @@
+
+@Regression
+Scenario: Homepage           [90m# src/test/java/FeatureFile/FF01_Navigate.feature:3[0m
+  [32mGiven [0m[32mNavigate to Homepage[0m [90m# StepDefinitions.AT01_Navigatetohomepage.navigate_to_homepage()[0m
+  [32mThen [0m[32menter URl[0m             [90m# StepDefinitions.AT01_Navigatetohomepage.enter_u_rl()[0m
