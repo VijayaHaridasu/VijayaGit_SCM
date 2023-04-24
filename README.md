@@ -1,1 +1,2 @@
-# Vijaya feature files created and changes doenne
+Hello This is new code from the Feature merged to Maste'
+This is first Class
